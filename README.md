@@ -1,4 +1,6 @@
 # Software-Versioning-Lab
-Lobos, Alyssa May F.
-CPE106L-4 / B3
-Laboratory Activity 1
+## Laboratory Information
+
+**Name:** Alyssa May F. Lobos  
+**Course:** CPE106-4 Software Design  
+**Laboratory:** Git Version Control
